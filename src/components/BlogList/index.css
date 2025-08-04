@@ -1,0 +1,10 @@
+.ull {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  width: 75%;
+}
+
+.loader-class {
+  padding: 28px;
+}
